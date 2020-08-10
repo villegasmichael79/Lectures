@@ -6,5 +6,5 @@ Be sure to clone this repository to your local machine and ```pull``` from this 
 
 ## Lecture 0
 
-* Module: Pre-requisites
-* Lecture Topic: brief review of linear algebra, statistics, calculus and programming with Python
+* **Module:** Pre-requisites
+* **Lecture Topic:** brief review of linear algebra, statistics, calculus and programming with Python
