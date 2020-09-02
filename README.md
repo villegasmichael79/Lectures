@@ -13,3 +13,9 @@ Be sure to ```clone``` this repository to your local machine and ```pull``` from
 
 * **Module:** Introduction to Machine Learning
 * **Lecture Topic:** Introduction to Machine Learning
+
+
+## Lecture 2
+
+* **Module:** Introduction to Machine Learning
+* **Lecture Topic:** Different types of learning, introduction to supervised learning
